@@ -1,8 +1,8 @@
-- 👋 Hey i’m @victusslay
-- 🌱 I’m currently learning angular 
+- 👋 hey, i’m val
+- 🌱 i’m currently learning angular 
 - 📫 tlg: victusslay
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: my feeling about programming = hate + love
+- 😄 pronouns: she/her
+- ⚡ fun fact: my feeling about programming = hate + love
 
 <!---
 victusslay/victusslay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
